@@ -1,0 +1,11 @@
+body{
+    background: lightskyblue
+}
+#calculation{
+    list-style: none;
+    display: flex;
+    
+}
+#calculation  li{
+    padding: 3px;
+}

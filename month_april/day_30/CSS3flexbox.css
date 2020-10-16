@@ -1,0 +1,22 @@
+.flex-container{
+    display: flex;
+    padding: 10px;
+    border: 2px dashed #898989;
+    width: 80%;
+    /* height: 400px; */
+    flex-direction: row;
+    /* font-family: serif; */
+    font-family: sans-serif;
+    flex-wrap: nowrap;
+
+}
+.flex-item {
+    width: 200px;
+    background: #d050d8;
+    height: 200px;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    /* flex-grow: 1; */
+}
